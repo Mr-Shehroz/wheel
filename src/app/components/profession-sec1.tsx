@@ -10,7 +10,7 @@ export default function Section1() {
   ];
 
   return (
-    <section className="w-full flex flex-col-reverse lg:items-end lg:flex-row">
+    <section className="w-full flex flex-col-reverse lg:items-end lg:flex-row mt-20 md:mt-0">
       {/* Left: Image and buttons */}
       <div className="relative w-full h-[70vh] lg:h-[85dvh] lg:ml-6">
         <Image
