@@ -15,7 +15,7 @@ export default function Section4() {
                     </p>
                     <p className="text-base sm:text-lg text-black">
 
-                        Our firm offers you the highest quality offers possible to meet your ambitions. Together, let's achieve your goals by pushing the boundaries!
+                        Our firm offers you the highest quality offers possible to meet your ambitions. Together, let`s achieve your goals by pushing the boundaries!
                     </p>
 
                     <button className="relative overflow-hidden group inline-block text-sm md:text-lg px-6 py-3 rounded-full border-2 border-black bg-black text-white transition duration-500">

@@ -10,10 +10,10 @@ export default function Section8() {
             </div>
             <div className="max-w-[700px] lg:max-w-5xl xl:max-w-full mx-auto mb-12 text-gray-700 space-y-4">
                 <p>
-                    Accounting, insurance, administrative procedures... It's never a walk in the park.
+                    Accounting, insurance, administrative procedures... It`s never a walk in the park.
                 </p>
                 <p>
-                    That's why we've surrounded ourselves with partners who are skilled in these various areas: they make life easier for our independent consultants and allow them to focus 200% on their work!
+                    That`s why we`ve surrounded ourselves with partners who are skilled in these various areas: they make life easier for our independent consultants and allow them to focus 200% on their work!
                 </p>
             </div>
             <div className="flex flex-wrap gap-6 items-center justify-center max-w-[700px] lg:max-w-5xl xl:max-w-full mx-auto">

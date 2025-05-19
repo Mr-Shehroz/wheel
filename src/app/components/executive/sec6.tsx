@@ -12,7 +12,7 @@ export default function Section6() {
                 {/* Description and CTA */}
                 <div className="space-y-6">
                     <p className="text-base sm:text-lg text-black">
-                        Whether you're a company seeking change or an interim manager looking for a new challenge, our agents open the doors to a world of opportunities, freedom, choice, and challenges.
+                        Whether you`re a company seeking change or an interim manager looking for a new challenge, our agents open the doors to a world of opportunities, freedom, choice, and challenges.
                     </p>
                     <p className="text-base sm:text-lg text-black">
                         By choosing Wheel of Work, enter a unique collaboration, where each project becomes an exceptional experience, regardless of its duration. Ready to shake up your professional life?

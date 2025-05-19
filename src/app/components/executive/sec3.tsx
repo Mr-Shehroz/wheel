@@ -25,7 +25,7 @@ export default function Section3() {
                         Throughout its existence, a company will inevitably undergo changes, and rest assured, this is normal. To overcome these changes with confidence, responsiveness, attentiveness, and determination are key skills.
                     </p>
                     <p className="text-base sm:text-lg text-black">
-                        It only takes a few hours for our project managers to find the talent who will take charge of your company's transformation. Shall we get started?
+                        It only takes a few hours for our project managers to find the talent who will take charge of your company`s transformation. Shall we get started?
                     </p>
 
                     <button className="relative overflow-hidden group inline-block text-sm md:text-lg px-6 py-3 rounded-full border-2 border-black bg-black text-white transition duration-500">
