@@ -58,7 +58,7 @@ export default function First() {
               Je suis un freelance en Tech ou en Ingénierie ou je souhaite recruter un freelance dans ces domaines.
             </p>
             <Link
-              href="#"
+              href="/executive"
               className="relative overflow-hidden group inline-block text-sm md:text-lg px-6 py-3 rounded-full border-2 border-black bg-black text-white transition duration-500"
             >
               <span className="relative z-10 group-hover:text-black transition duration-500">
